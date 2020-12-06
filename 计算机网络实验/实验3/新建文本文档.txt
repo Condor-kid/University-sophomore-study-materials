@@ -1,0 +1,25 @@
+tcpclient smtp.sina.com 25
+
+HELO 1229512018
+
+AUTH LOGIN
+
+MTIyOTUxMjAxOA==
+
+Y25mbmZvcnpndnptaWFoaQ==
+
+MAIL FROM:<1229512018@qq.com>
+
+RCPT TO:<1505857313@qq.com>
+
+data
+
+
+
+Date: Wed, 20 Mar 2020 11:20:01 +0800
+From: =?GB2312?B?1cXTwMPx?= <1229512018@qq.com>
+To: isszym <1505857313@qq.com>
+Subject: HELLO WORLD
+
+hello world
+.
